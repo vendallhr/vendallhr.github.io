@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/vendallwebsite/static/css/main.073c9b0a.css",
-    "main.js": "/vendallwebsite/static/js/main.53ceb55a.js",
+    "main.js": "/vendallwebsite/static/js/main.47140a13.js",
     "static/js/787.435752a0.chunk.js": "/vendallwebsite/static/js/787.435752a0.chunk.js",
     "static/media/logo.svg": "/vendallwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vendallwebsite/index.html",
     "main.073c9b0a.css.map": "/vendallwebsite/static/css/main.073c9b0a.css.map",
-    "main.53ceb55a.js.map": "/vendallwebsite/static/js/main.53ceb55a.js.map",
+    "main.47140a13.js.map": "/vendallwebsite/static/js/main.47140a13.js.map",
     "787.435752a0.chunk.js.map": "/vendallwebsite/static/js/787.435752a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.53ceb55a.js"
+    "static/js/main.47140a13.js"
   ]
 }
