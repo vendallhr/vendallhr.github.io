@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vendallhr/static/css/main.073c9b0a.css",
+    "main.js": "/vendallhr/static/js/main.d6602043.js",
+    "static/js/787.435752a0.chunk.js": "/vendallhr/static/js/787.435752a0.chunk.js",
+    "static/media/logo.svg": "/vendallhr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vendallhr/index.html",
+    "main.073c9b0a.css.map": "/vendallhr/static/css/main.073c9b0a.css.map",
+    "main.d6602043.js.map": "/vendallhr/static/js/main.d6602043.js.map",
+    "787.435752a0.chunk.js.map": "/vendallhr/static/js/787.435752a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d6602043.js"
+  ]
+}
